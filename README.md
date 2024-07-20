@@ -1,4 +1,5 @@
-This is a first mini game, a 2D labyrinth.
+This is a first mini game, a 2D labyrinth.  
+The project description is in the pdf.
 
 This project was written for and compiled on a Mac.
 The program needs glfw and automatically downloads libmlx42. make or make bonus. Start with ./solong <map>, the maps are in the maps folder.
