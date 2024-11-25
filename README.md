@@ -3,7 +3,7 @@ This is a first mini game, a 2D labyrinth.
 Smurf has to save Smurfette by collecting apples and avoiding the evil forest creatures.  
 Use WASD as cursor keys.  
 
-# Usage
+## Usage
 This project was written for and compiled on a Mac.  
 The program needs glfw and automatically downloads libmlx42.  
 ```
